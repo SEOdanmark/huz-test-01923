@@ -18,65 +18,10 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.a6372ebdd0d0de3d291f2fcaea82b9f58 a{
-font-size:16px;
-}
-.a6372ebdd0d0de3d291f2fcaea82b9f58 p,.a6372ebdd0d0de3d291f2fcaea82b9f58 span,.a6372ebdd0d0de3d291f2fcaea82b9f58 label{
-font-size:16px!important;
-}
-.x3a7be47810e203513f9264e5a36929f0{
+.b55ae6f9f6c0a2ab1a8de1418e08d2f05{
 background-color:#ffc107!important;
 border-color:#ffc107!important;
 color:#000000!important;
-}
-a:hover{
-color:#ffffff;background:#ffc658!important;
-}
-html{
-scroll-behavior: smooth;
-}
-.nav-link{
-color: #000000;
-
-}
-a{
-text-decoration: none!important;
-}
-.btn-md{
-padding: 14.7px 30.5px;
-border-radius: 0;
-}
-.w5b274d4f2dae382659a9ae8c0b9ac238:hover{
-box-shadow: 0 49.7px 50px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.nav-item{
-padding-left:7.5px;
-padding-right:8.1px;
-padding-top:5.5px;
-padding-bottom:4.9px;
-}
-footer a{
-color:#ffffff;
-text-decoration: underline;
-}
-footer{
-background:#101010;
-color:#ffffff;
-}
-.t6042c28076a777f56346cfebcc3332da p,.t6042c28076a777f56346cfebcc3332da a,.t6042c28076a777f56346cfebcc3332da span,.t6042c28076a777f56346cfebcc3332da label{
-font-size:16px!important;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-.navbar a{
-font-size: 17.9px!important;
-font-weight: bold;
-}
-.t6042c28076a777f56346cfebcc3332da a,.a6372ebdd0d0de3d291f2fcaea82b9f58 a{
-color:#020202!important;
-text-decoration: underline !important;
 }
 ul{
 list-style: circle;
@@ -84,16 +29,71 @@ list-style: circle;
 footer *{
 font-size:16px !important;
 }
+.nav-link{
+color: #000000;
+
+}
+footer{
+background:#0a0a0a;
+color:#ffffff;
+}
+.nav-item{
+padding-left:7.8px;
+padding-right:8px;
+padding-top:4.5px;
+padding-bottom:5.5px;
+}
+a{
+text-decoration: none!important;
+}
+.ta626f99e00c6963ba9d61f2a145ea256 p,.ta626f99e00c6963ba9d61f2a145ea256 span,.ta626f99e00c6963ba9d61f2a145ea256 label{
+font-size:16px!important;
+}
+html{
+scroll-behavior: smooth;
+}
+footer a{
+color:#ffffff;
+text-decoration: underline;
+}
+.ta626f99e00c6963ba9d61f2a145ea256 a{
+font-size:16px;
+}
+.zb2ba1101308b3965cf6868526b5e0d3a a,.ta626f99e00c6963ba9d61f2a145ea256 a{
+color:#010101!important;
+text-decoration: underline !important;
+}
+.zb2ba1101308b3965cf6868526b5e0d3a p,.zb2ba1101308b3965cf6868526b5e0d3a a,.zb2ba1101308b3965cf6868526b5e0d3a span,.zb2ba1101308b3965cf6868526b5e0d3a label{
+font-size:16px!important;
+}
+a:hover{
+color:#ffffff;background:#ffc658!important;
+}
+.wb826ebe008993cc62a4d0e952e93c7f2:hover{
+box-shadow: 0 49.6px 49.7px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.btn-md{
+padding: 14.6px 30.1px;
+border-radius: 0;
+}
+.navbar a{
+font-size: 18.1px!important;
+font-weight: bold;
+}
 </style>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar-expand-lg navbar">
 <a class="navbar-brand" href="index.html"  ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="navbar-nav align-items-center d-flex ml-auto"><li class="nav-item ">
-<a class="nav-link bc9e89c5dffb45aadfc2d722df2e38e87" href="index.html"  >test</a>
-</li><li class="nav-item"><a class="bc9e89c5dffb45aadfc2d722df2e38e87 nav-link" rel=nofollow href="about-us.html">About Us</a>
+<ul class="ml-auto navbar-nav d-flex align-items-center"><li class=" nav-item">
+<a class="x85a06347b33d5c5375df8a97d8020054 nav-link" href="index.html"  >test</a>
+</li><li class="nav-item"><a class="x85a06347b33d5c5375df8a97d8020054 nav-link" rel=nofollow href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -160,10 +160,10 @@ This website is owned and published by:
 </p>
 </section>
 <footer>
-<div class="pt-5 container py-4" >
-<div class="row"><div class="col-lg-3"><p><a class="bc9e89c5dffb45aadfc2d722df2e38e87" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="bc9e89c5dffb45aadfc2d722df2e38e87" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="bc9e89c5dffb45aadfc2d722df2e38e87" href="about-us.html" rel="nofollow">About Us</a></p>
+<div class="py-4 container pt-5" >
+<div class="row"><div class="col-lg-3"><p><a class="x85a06347b33d5c5375df8a97d8020054" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="x85a06347b33d5c5375df8a97d8020054" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="x85a06347b33d5c5375df8a97d8020054" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
